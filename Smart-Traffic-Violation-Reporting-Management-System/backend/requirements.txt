@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+PyMySQL==1.1.1
+cryptography==42.0.8
+PyJWT==2.8.0
+python-dotenv==1.0.1
+Werkzeug==3.0.3
